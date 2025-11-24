@@ -9,4 +9,4 @@ spec:
   type: service
   owner: team-a
   lifecycle: experimental
-  dependsOn: ['Component:example-website']
+  dependsOn: ['component:example-website']
